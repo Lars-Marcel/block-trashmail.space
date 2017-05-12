@@ -21,6 +21,9 @@ isTrashmail("john.doe@trash-mail.com", callback);
 isTrashmail("john.doe@trash-mail.com"); // returns true
 ```
 
+
+<br>Feel free to pull examples for other languages :)
+
 # API
 <code>https://www.block-trashmail.space/api/trash-mail.com</code><br>
 <b><i>- OR -</i></b><br>
