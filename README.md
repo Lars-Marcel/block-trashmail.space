@@ -1,7 +1,8 @@
 # block-trashmail.space
 
-With the free block-trashmail.space API you can detect disposable email adresses.<br>
-Block-Trashmail.space has currently ~5.5k domains in the database.
+With the free <a href="https://www.block-trashmail.space" target="_blank">block-trashmail.space</a> API you can detect disposable email adresses.<br>
+There are currently ~5.5k domains in the database.<br>
+Database will be updated automatically every day.
 
 # How to use?
 In this repository you can find example functions for PHP, JavaScript, Python 2.x and Python 3.x
