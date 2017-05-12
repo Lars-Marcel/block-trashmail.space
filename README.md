@@ -35,4 +35,4 @@ If the email-domain is on our blacklist the API returns <b>1</b>, otherwise <b>0
 <br>
 <b>Rate limiting:</b><br>
 max. 10.000 requests per day and IP.<br>
-If you need more, contact me at &#x68;&#105;&#x40;&#x62;&#x6c;&#111;&#x63;&#107;&#x2d;&#x74;&#x72;&#97;&#115;&#x68;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x73;&#112;&#97;&#x63;&#101; to get unlimited access :) 
+If you need more, contact me at <img src="https://www.block-trashmail.space/images/mail.png" /> to get unlimited access :) 
