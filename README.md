@@ -34,6 +34,4 @@ If the email-domain is on our blacklist the API returns <b>1</b>, otherwise <b>0
 <br>
 <br>
 <b>Rate limiting:</b><br>
-max. 10 requests per second and IP.<br>
-API returns a 429 error if the limit has been exceeded.<br>
-If you need more, contact me at <img src="https://www.block-trashmail.space/images/mail.png" /> to get unlimited access :) 
+none :)
