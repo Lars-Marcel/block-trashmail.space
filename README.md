@@ -1,7 +1,7 @@
 # block-trashmail.space
 
 With the free <a href="https://www.block-trashmail.space" target="_blank">block-trashmail.space</a> API you can detect disposable email adresses.<br>
-There are currently ~5.5k domains in the database.<br>
+There are currently ~190.000 domains in the database.<br>
 Database will be updated automatically every day.
 
 # How to use?
